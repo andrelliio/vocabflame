@@ -58,3 +58,4 @@ src/
 Уровни создаются автоматически по `WORDS_PER_LEVEL` штук.
 force rebuild
 trigger pages rebuild
+trigger after source change
