@@ -57,3 +57,4 @@ src/
 Отредактируй `src/data/words.js` — добавь объекты `{ en, ru, hint }` в массив `words`.
 Уровни создаются автоматически по `WORDS_PER_LEVEL` штук.
 force rebuild
+trigger pages rebuild
